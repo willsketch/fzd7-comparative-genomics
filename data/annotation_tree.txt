@@ -1,0 +1,366 @@
+COST: 273.5
+
+
+Duplications
+Gene                L. Bound                   U. Bound                   
+=================== ========================== ========================== 
+n66390              n1078                      N/A
+n31258              n1078                      N/A
+n31264              n1074                      n1078
+n31265              n1074                      n1078
+n31267              n1074                      n1078
+n31271              n1074                      n1078
+n31272              n1074                      n1078
+n31338              n1074                      n1078
+n31337              n1074                      n1078
+n31335              n1074                      n1078
+n31275              Lutra-lutra                n947
+n31334              n1074                      n1078
+n31330              n1074                      n1078
+n31324              n1074                      n1078
+n31314              n1070                      n1078
+n31285              n1012                      n1070
+n31312              64                         n1070
+n31310              64                         n1070
+n31308              64                         n1070
+n31290              n979                       n983
+n31303              n994                       64
+n31321              n969                       n1074
+n31340              n1064                      n1078
+n31342              n1064                      n1078
+n31344              n1064                      n1078
+n31346              n1064                      n1078
+n31350              n1054                      n1064
+n31354              n1044                      n1054
+n31209              n1053                      n1054
+n31207              n1053                      n1054
+n31214              80                         62
+n31238              n1078                      N/A
+n31232              n1078                      N/A
+n31230              n1078                      N/A
+n31228              n1078                      N/A
+n31226              n1078                      N/A
+n31243              n954                       n1071
+n31253              62                         n1070
+n31251              62                         n1070
+Duplications: 39 
+
+
+cDNodes
+cD_Node             L. Bound                   U. Bound                   
+=================== ========================== ========================== 
+n31257              n1078                      N/A
+cDNodes: 1
+
+
+Losses
+Species                    No. of Losses  
+========================== ============== 
+Loxodonta-africana         0
+Erinaceus-europaeus        0
+Desmodus-rotundus          0
+Callithrix-jacchus         0
+Pongo-abelii               0
+n977                       0
+Acinonyx-jubatus           0
+Nycticebus-coucang         0
+n983                       0
+n962                       0
+Ailuropoda-melanoleuca     0
+Myotis-yumanensis          0
+n1046                      0
+Panthera-pardus            0
+n979                       0
+66                         0
+Delphinapterus-leucas      0
+Vulpes-vulpes              0
+n986                       0
+Ursus-americanus           0
+98                         0
+Balaenoptera-acutorostrata 0
+Trachypithecus-francoisi   0
+Homo-sapiens               0
+Sus-scrofa                 0
+n991                       0
+Artibeus-jamaicensis       0
+Balaenoptera-musculus      0
+n1049                      0
+Vulpes-lagopus             0
+Manis-pentadactyla         0
+n982                       0
+37                         0
+76                         0
+Leptonychotes-weddellii    0
+Callicebus-cupreus         0
+Prionailurus-viverrinus    0
+Puma-yagouaroundi          0
+Phyllostomus-discolor      0
+75                         0
+Galemys-pyrenaicus         0
+Phoca-vitulina             0
+84                         0
+Canis-lupus-familiaris     0
+n947                       0
+40                         0
+n952                       0
+n993                       0
+64                         0
+Puma-concolor              0
+n1003                      0
+n943                       0
+80                         0
+Equus-caballus             0
+Camelus-dromedarius        0
+n1027                      0
+41                         0
+n974                       0
+Saguinus-oedipus           0
+n1032                      0
+Ochotona-princeps          0
+Sapajus-apella             0
+n1012                      0
+n1054                      0
+n954                       0
+96                         0
+n1072                      0
+Bubalus-carabanensis       0
+Macaca-mulatta             0
+Moschus-berezovskii        0
+Phocoena-sinus             0
+21                         0
+Papio-anubis               0
+n1071                      0
+Talpa-occidentalis         0
+Cebus-imitator             0
+Bubalus-bubalis            0
+n994                       0
+65                         0
+n1051                      0
+Leopardus-geoffroyi        0
+n967                       0
+n1007                      0
+88                         0
+n949                       0
+Urocitellus-parryii        0
+n969                       0
+Ochotona-curzoniae         0
+Eumetopias-jubatus         0
+44                         0
+Callorhinus-ursinus        0
+Hyaena-hyaena              0
+92                         0
+90                         0
+Eschrichtius-robustus      0
+n1074                      0
+Cervus-canadensis          0
+Oryctolagus-cuniculus      0
+Sciurus-carolinensis       0
+62                         0
+Equus-asinus               0
+Theropithecus-gelada       0
+94                         0
+n1070                      0
+n1010                      0
+Gorilla-gorilla-gorilla    0
+Felis-catus                0
+Microtus-ochrogaster       0
+85                         0
+Lutra-lutra                0
+Dama-dama                  0
+n1041                      0
+95                         0
+63                         0
+n944                       0
+n1053                      0
+n1078                      0
+n1064                      0
+n988                       0
+Bubalus-kerabau            0
+55                         0
+n959                       0
+n936                       0
+51                         0
+n1019                      0
+n1057                      0
+Suricata-suricatta         0
+Microcebus-murinus         0
+Sorex-araneus              0
+Mirounga-leonina           0
+Lemur-catta                0
+Ursus-arctos               0
+Castor-canadensis          0
+99                         0
+n1013                      0
+89                         0
+n1044                      0
+Lynx-canadensis            0
+n1029                      0
+n963                       0
+n1063                      0
+Manis-javanica             0
+Myotis-myotis              0
+Crocuta-crocuta            0
+Meles-meles                0
+Choloepus-didactylus       0
+100                        0
+Neogale-vison              0
+
+Losses: 0
+
+
+Species                    Duplications   cD_Nodes       Transfers_from Transfers_to   Losses         
+========================== ============== ============== ============== ============== ============== 
+Loxodonta-africana         0              0              0              0              0              
+Erinaceus-europaeus        0              0              0              0              0              
+Desmodus-rotundus          0              0              0              0              0              
+Callithrix-jacchus         0              0              0              0              0              
+Pongo-abelii               0              0              0              0              0              
+n977                       0              0              0              0              0              
+Acinonyx-jubatus           0              0              0              0              0              
+Nycticebus-coucang         0              0              0              0              0              
+n983                       0              0              0              0              0              
+n962                       0              0              0              0              0              
+Ailuropoda-melanoleuca     0              0              0              0              0              
+Myotis-yumanensis          0              0              0              0              0              
+n1046                      0              0              0              0              0              
+Panthera-pardus            0              0              0              0              0              
+n979                       1              0              0              0              0              
+66                         0              0              0              0              0              
+Delphinapterus-leucas      0              0              0              0              0              
+Vulpes-vulpes              0              0              0              0              0              
+n986                       0              0              0              0              0              
+Ursus-americanus           0              0              0              0              0              
+98                         0              0              0              0              0              
+Balaenoptera-acutorostrata 0              0              0              0              0              
+Trachypithecus-francoisi   0              0              0              0              0              
+Homo-sapiens               0              0              0              0              0              
+Sus-scrofa                 0              0              0              0              0              
+n991                       0              0              0              0              0              
+Artibeus-jamaicensis       0              0              0              0              0              
+Balaenoptera-musculus      0              0              0              0              0              
+n1049                      0              0              0              0              0              
+Vulpes-lagopus             0              0              0              0              0              
+Manis-pentadactyla         0              0              0              0              0              
+n982                       0              0              0              0              0              
+37                         0              0              0              0              0              
+76                         0              0              0              0              0              
+Leptonychotes-weddellii    0              0              0              0              0              
+Callicebus-cupreus         0              0              0              0              0              
+Prionailurus-viverrinus    0              0              0              0              0              
+Puma-yagouaroundi          0              0              0              0              0              
+Phyllostomus-discolor      0              0              0              0              0              
+75                         0              0              0              0              0              
+Galemys-pyrenaicus         0              0              0              0              0              
+Phoca-vitulina             0              0              0              0              0              
+84                         0              0              0              0              0              
+Canis-lupus-familiaris     0              0              0              0              0              
+n947                       0              0              0              0              0              
+40                         0              0              0              0              0              
+n952                       0              0              0              0              0              
+n993                       0              0              0              0              0              
+64                         3              0              0              0              0              
+Puma-concolor              0              0              0              0              0              
+n1003                      0              0              0              0              0              
+n943                       0              0              0              0              0              
+80                         1              0              0              0              0              
+Equus-caballus             0              0              0              0              0              
+Camelus-dromedarius        0              0              0              0              0              
+n1027                      0              0              0              0              0              
+41                         0              0              0              0              0              
+n974                       0              0              0              0              0              
+Saguinus-oedipus           0              0              0              0              0              
+n1032                      0              0              0              0              0              
+Ochotona-princeps          0              0              0              0              0              
+Sapajus-apella             0              0              0              0              0              
+n1012                      1              0              0              0              0              
+n1054                      1              0              0              0              0              
+n954                       1              0              0              0              0              
+96                         0              0              0              0              0              
+n1072                      0              0              0              0              0              
+Bubalus-carabanensis       0              0              0              0              0              
+Macaca-mulatta             0              0              0              0              0              
+Moschus-berezovskii        0              0              0              0              0              
+Phocoena-sinus             0              0              0              0              0              
+21                         0              0              0              0              0              
+Papio-anubis               0              0              0              0              0              
+n1071                      0              0              0              0              0              
+Talpa-occidentalis         0              0              0              0              0              
+Cebus-imitator             0              0              0              0              0              
+Bubalus-bubalis            0              0              0              0              0              
+n994                       1              0              0              0              0              
+65                         0              0              0              0              0              
+n1051                      0              0              0              0              0              
+Leopardus-geoffroyi        0              0              0              0              0              
+n967                       0              0              0              0              0              
+n1007                      0              0              0              0              0              
+88                         0              0              0              0              0              
+n949                       0              0              0              0              0              
+Urocitellus-parryii        0              0              0              0              0              
+n969                       1              0              0              0              0              
+Ochotona-curzoniae         0              0              0              0              0              
+Eumetopias-jubatus         0              0              0              0              0              
+44                         0              0              0              0              0              
+Callorhinus-ursinus        0              0              0              0              0              
+Hyaena-hyaena              0              0              0              0              0              
+92                         0              0              0              0              0              
+90                         0              0              0              0              0              
+Eschrichtius-robustus      0              0              0              0              0              
+n1074                      11             0              0              0              0              
+Cervus-canadensis          0              0              0              0              0              
+Oryctolagus-cuniculus      0              0              0              0              0              
+Sciurus-carolinensis       0              0              0              0              0              
+62                         2              0              0              0              0              
+Equus-asinus               0              0              0              0              0              
+Theropithecus-gelada       0              0              0              0              0              
+94                         0              0              0              0              0              
+n1070                      1              0              0              0              0              
+n1010                      0              0              0              0              0              
+Gorilla-gorilla-gorilla    0              0              0              0              0              
+Felis-catus                0              0              0              0              0              
+Microtus-ochrogaster       0              0              0              0              0              
+85                         0              0              0              0              0              
+Lutra-lutra                1              0              0              0              0              
+Dama-dama                  0              0              0              0              0              
+n1041                      0              0              0              0              0              
+95                         0              0              0              0              0              
+63                         0              0              0              0              0              
+n944                       0              0              0              0              0              
+n1053                      2              0              0              0              0              
+n1078                      7              1              0              0              0              
+n1064                      4              0              0              0              0              
+n988                       0              0              0              0              0              
+Bubalus-kerabau            0              0              0              0              0              
+55                         0              0              0              0              0              
+n959                       0              0              0              0              0              
+n936                       0              0              0              0              0              
+51                         0              0              0              0              0              
+n1019                      0              0              0              0              0              
+n1057                      0              0              0              0              0              
+Suricata-suricatta         0              0              0              0              0              
+Microcebus-murinus         0              0              0              0              0              
+Sorex-araneus              0              0              0              0              0              
+Mirounga-leonina           0              0              0              0              0              
+Lemur-catta                0              0              0              0              0              
+Ursus-arctos               0              0              0              0              0              
+Castor-canadensis          0              0              0              0              0              
+99                         0              0              0              0              0              
+n1013                      0              0              0              0              0              
+89                         0              0              0              0              0              
+n1044                      1              0              0              0              0              
+Lynx-canadensis            0              0              0              0              0              
+n1029                      0              0              0              0              0              
+n963                       0              0              0              0              0              
+n1063                      0              0              0              0              0              
+Manis-javanica             0              0              0              0              0              
+Myotis-myotis              0              0              0              0              0              
+Crocuta-crocuta            0              0              0              0              0              
+Meles-meles                0              0              0              0              0              
+Choloepus-didactylus       0              0              0              0              0              
+100                        0              0              0              0              0              
+Neogale-vison              0              0              0              0              0              
+
+Duplications: 39
+cDs: 1
+Losses: 0
+
+
