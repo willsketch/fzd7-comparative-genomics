@@ -17,7 +17,7 @@ function over time.
 ### Phylogenetic Tree of FZD7 Sequences
 ![Phylogenetic Tree](Figures/FZDZ-seq.aln.contree.png)
 
-### Species Tree for Reconciliation
+### Species Tree
 ![Species Tree](Figures/Cytb_seq-2.aln.contree.png)
 
 ---
